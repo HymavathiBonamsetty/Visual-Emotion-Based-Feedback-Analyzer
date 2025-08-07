@@ -1,0 +1,10 @@
+put the csv file downloaded from the link i have provided here
+
+Requirements
+
+opencv_python==4.2.0.32
+Keras==2.3.1
+pandas==0.25.3
+numpy==1.17.4
+imutils==0.5.3
+scikit_learn==0.22.1
